@@ -1,1 +1,1 @@
-# cryptocompass
+# Crypto Compass
